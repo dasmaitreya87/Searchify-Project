@@ -1,6 +1,6 @@
 const APIController = (function () {
-    const clientId ="cb23987d08b8443687313b49a0d136f1";
-    const clientSecret ="ac49988acbcc43ccb03c32d2db6bd14f";
+    const clientId =cb23987d08b8443687313b49a0d136f1;
+    const clientSecret =ac49988acbcc43ccb03c32d2db6bd14f;
 
 
 
