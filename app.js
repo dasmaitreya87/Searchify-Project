@@ -1,6 +1,6 @@
 const APIController = (function () {
-    const clientId =GIVE_THE_CLIENT_ID;
-    const clientSecret = GIVE_THE_CLIENT_SECRET;
+    const clientId ="cb23987d08b8443687313b49a0d136f1";
+    const clientSecret ="ac49988acbcc43ccb03c32d2db6bd14f";
 
 
 
